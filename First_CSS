@@ -1,0 +1,13 @@
+.t-BreadcrumbRegion {
+    padding: var(--ut-breadcrumb-padding-y,1rem) var(--ut-breadcrumb-padding-x,1rem);
+    background-color: lightgrey;
+}
+.t-BreadcrumbRegion--useBreadcrumbTitle .t-Breadcrumb-item:last-child .t-Breadcrumb-label {
+    display: block;
+    overflow: hidden;
+    text-allign;
+     text-align: center;
+font-family: 'Jameel Noori Nastaleeq';
+font-size: x-large;
+background-color: lightgrey;
+}
