@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pak-Qatar Family Takaful</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            direction: rtl;
+            text-align: right;
+        }
+        .container {
+            width: 100%;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            max-width: 100%;
+            height: auto;
+        }
+        .details {
+            margin-bottom: 20px;
+        }
+        .details ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .details li {
+            margin-bottom: 10px;
+        }
+        .table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+        .table th, .table td {
+            padding: 10px;
+            text-align: center;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .footer img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="logo.png" alt="Pak-Qatar Family Takaful">
+            <h1>ماہانہ بچت اینڈ تکافل پلان</h1>
+            <p>اعتماد کے ساتھ آپ کے تحفظ کا ضامن</p>
+        </div>
+        <div class="details">
+            <h2>اہم خصوصیات:</h2>
+            <ul>
+                <li>سرمایہ کاری کے ساتھ بچت کا بہترین موقع</li>
+                <li>کم از کم ایک سال کی بچت پالیسی</li>
+                <li>پالیسی پر 135 فیصد کا منافع</li>
+                <li>اضافی منافع پر 2 فیصد بونس</li>
+                <li>سالانہ فوائد میں شرکت کا 120 فیصد</li>
+                <li>اختتامی سال پر پالیسی کا حساب</li>
+            </ul>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>شرکاء کی عمر</th>
+                    <th>سرمایہ کاری کا انتخاب</th>
+                    <th>منافع</th>
+                    <th>مجموعی بچت</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>2,000,000</td>
+                    <td>1,000,000</td>
+                    <td>3,000,000</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>10,000,000</td>
+                    <td>5,000,000</td>
+                    <td>15,000,000</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>10,000,000</td>
+                    <td>10,000,000</td>
+                    <td>20,000,000</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="footer">
+            <img src="footer.png" alt="Pak-Qatar Family Takaful">
+            <p>فون: 021-111-Takaful (825238) | ویب: www.pakqatar.com.pk | ای میل: info@pakqatar.com.pk</p>
+        </div>
+    </div>
+</body>
+</html>
